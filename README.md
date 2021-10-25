@@ -11,7 +11,7 @@ https://github.com/ubsuny/transmon/blob/main/Transmon.ipynb
 
 But at least some are showing up. It could be a problem with my markdown code.
 
-### 2. Issues are opened in GitHub, and closed as each task is attempted. I don’t know how to do the listing on the Jupyter notebook however, so that task is still outstanding. I also added the issue of not being able to display the embedded images from the Jupyter notebook.
+### 2. Issues are opened in GitHub, and closed as each task is attempted. I don’t know how to do the linting on the Jupyter notebook however, so that task is still outstanding. I also added the issue of not being able to display the embedded images from the Jupyter notebook.
 
 
 ### 3. The youtube video address is:
